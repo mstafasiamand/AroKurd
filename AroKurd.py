@@ -84,12 +84,12 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\033[91mNote[Ema Bar Prs Nen La Hech Keshayak
-\033[33mTool Vip Bo Ftoshtn Nrx 10$
+\033[33mTool Vip Bo Ftoshtn Nrx balash
 \033[91mBo Kren @aroKURD1"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "ARO"
-CorrectPassword = "kurd"
+CorrectUsername = "mstafa"
+CorrectPassword = "mstafa"
 
 loop = 'true'
 while (loop == 'true'):
